@@ -34,7 +34,7 @@
         <div class="col-12">
             <div class="mobile-header-elements">
                 <div class="mobile-logo">
-                    <a href="{{ route('home') }}"><img src="{{ asset('images/logo/logo1.png') }}" alt=""></a>
+                    <a href="{{ route('home') }}"><img src="{{ asset('images/logo/fav-logo.png') }}" alt=""></a>
                 </div>
                 <div class="mobile-nav-icon dots-menu">
                     <i class="fa-solid fa-bars"></i>
@@ -47,7 +47,7 @@
 <div class="mobile-sidebar mobile-sidebar5">
     <div class="logosicon-area">
         <div class="logos">
-            <img src="{{ asset('images/logo/logo1.png') }}" alt="">
+            <img src="{{ asset('images/logo/logo for website.png') }}" alt="">
         </div>
         <div class="menu-close">
             <i class="fa-solid fa-xmark"></i>
@@ -57,7 +57,7 @@
         <ul class="mobile-nav-list">
             <li><a href="{{ route('home') }}">Home </a></li>
             <li><a href="features.html">Features</a></li>
-            <li><a href="https://tidycal.com/inilabs/appointment-booking">Schedule A Meeting</a></li>
+            <li><a href="https://calendly.com/spsbd2021/30min">Schedule A Meeting</a></li>
         </ul>
 
         <div class="allmobilesection">

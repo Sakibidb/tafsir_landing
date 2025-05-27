@@ -21,7 +21,7 @@
                     </tr>
                     <tr>
                         <td style="text-align: center; padding-top: 20px;">
-                            <img src="{{ $message->embed(public_path('images/logo/logo1.png')) }}" alt="Tafsir Logo" style="max-width: 150px;">
+                            <img src="{{ $message->embed(public_path('images/logo/fav-logo.png')) }}" alt="Tafsir Logo" style="max-width: 150px;">
                         </td>
                     </tr>
                     <tr>

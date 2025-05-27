@@ -1,6 +1,6 @@
 <aside class="db-sidebar">
     <div class="db-sidebar-header">
-        <a href="{{ route('home') }}" class="w-24"><img src="{{ asset('images/logo/logo1.png') }}" alt="logo"></a>
+        <a href="{{ route('home') }}" class="w-24"><img src="{{ asset('images/logo/fav-logo.png') }}" alt="logo"></a>
         <button class="fa-solid fa-xmark xmark-btn"></button>
     </div>
     <nav class="db-sidebar-nav">

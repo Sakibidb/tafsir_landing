@@ -56,8 +56,7 @@ style="background-image: url({{ asset('images/background/cta-bg2.png') }}); back
                                     <li><a href="https://wa.me/+8801716477600" target="_blank">WhatsApp Us : +8801716477600</a></li>
                                     <li><a href="mailto:sps@saralrekha.com.bd" target="_blank">Mail Us : sps@saralrekha.com.bd</a></li>
                                     <li>
-                                        <a href="https://www.google.com/maps/search/?api=1&query=iNiLabs,+Block+-+C,+House+-+18,+Avenue+-+1,+Mirpur-2,+Dhaka+1216,+Bangladesh" target="_blank">
-                                          Address : iNiLabs, Block - C, House - 18, Avenue - 1, Mirpur-2, Dhaka 1216, Bangladesh
+                                        <a href="" target="_blank">120, selina parvin sarak, century arched, room 31, Moghbazar, Dhaka, Dhaka 1217
                                         </a>
                                       </li>
                                       
@@ -69,7 +68,7 @@ style="background-image: url({{ asset('images/background/cta-bg2.png') }}); back
                             <div class="copyright-social-area">
                                 <ul>
                                     <li class="pera">
-                                        <p>Copyright @2025 iNiLabs. All Right Reserved</p>
+                                        <p>Copyright @2025 saralrekha. All Right Reserved</p>
                                     </li>
                                 </ul>
                                 <ul>

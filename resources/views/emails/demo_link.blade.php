@@ -37,7 +37,7 @@
                     </tr>
                     <tr>
                         <td align="center" style="padding-top: 20px;">
-                            <img src="{{ $message->embed(public_path('images/logo/logo1.png')) }}" alt="Saralrekha Logo" style="max-width: 140px;">
+                            <img src="{{ $message->embed(public_path('images/logo/fav-logo.png')) }}" alt="Saralrekha Logo" style="max-width: 140px;">
                         </td>
                     </tr>
                     <tr>

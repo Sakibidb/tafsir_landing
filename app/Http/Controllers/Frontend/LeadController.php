@@ -30,6 +30,6 @@ class LeadController extends Controller
 
         Mail::to($lead->email)->send(new DemoLinkMail($lead));
 
-        return redirect()->back()->with('success', 'Lead created successfully! Check your email for the demo link.');
+        return redirect()->back()->with('success', 'Check your email for the demo link.');
     }
 }

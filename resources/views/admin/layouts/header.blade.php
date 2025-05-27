@@ -1,6 +1,6 @@
 <div class="backdrop"></div>
 <header class="db-header">
-    <a href="{{ route('home') }}" class="w-32 flex-shrink-0"><img class="w-full" src="{{ asset('images/logo/logo1.png') }}"
+    <a href="{{ route('home') }}" class="w-32 flex-shrink-0"><img class="w-full" src="{{ asset('images/logo/logo for website.png') }}"
             alt="logo"></a>
     <div class="flex items-center justify-end w-full gap-4">
 
